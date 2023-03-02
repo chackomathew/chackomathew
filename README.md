@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Chacko Mathew! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=chackomathew&color=blue)</div>
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/chackomathew)
+
+## **I'm a Software Engineer.**
+
+- 🎯 **I’m currently working on**: ...
+- 💬 **Ask me about**: ...
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+- ⚡ **Fun fact**: ...
+
+<hr/>
+
+<a href="https://github.com/chackomathew">
+  <img src="https://github-readme-stats.vercel.app/api?username=chackomathew&count_private=true&show_icons=true&hide=stars" />
+</a>
+
 
 <!--
 **chackomathew/chackomathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
